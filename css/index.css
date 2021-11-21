@@ -1,0 +1,6 @@
+@charset "utf-8";
+/* CSS Document */
+body{margin: 0px;padding: 0px;font-family: Montserrat,sans-serif !important;}
+
+.header{width:100%; height:auto; background-color:#ff0000; display:inline-block;}
+.header h1{text-align:center; font-size:25px; color:#ffffff; padding:10px;}
